@@ -5,4 +5,5 @@
  */
 public class Pelple {
     private String name;
+    private int age;
 }
